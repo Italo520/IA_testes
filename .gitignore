@@ -7,8 +7,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# IDEs e editores (se aplicável)
-.vscode/
 
 # Arquivos temporários e de log
 *.log

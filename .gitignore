@@ -1,0 +1,19 @@
+\.venv# Diretórios de ambiente virtual
+.venv/
+venv/
+
+# Arquivos de bytecode do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDEs e editores (se aplicável)
+.vscode/
+
+# Arquivos temporários e de log
+*.log
+*.tmp
+
+# Arquivos de sistema operacional (se necessário)
+.DS_Store
+Thumbs.db
